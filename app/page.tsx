@@ -53,22 +53,10 @@ const howItWorksSteps = [
 export default function HomePage() {
   return (
     <>
-      {/* Homepage Blurb */}
-      <section className="bg-background py-12">
-        <div className="container-custom">
-          <p className="text-lg md:text-xl text-center text-text-primary max-w-3xl mx-auto">
-            NonnaTravel creates intimate, tailor-made journeys to the Italian villages of your grandparents. 
-            Cook with local Nonne, taste regional wines, and explore traditions that shaped your family's story. 
-            Your English-speaking guide makes every step simple, authentic, and memorable.
-          </p>
-        </div>
-      </section>
-
       {/* Hero Section */}
       <Hero
         headline="Travel like your Nonna always dreamed"
         subheadline="Visit the Italian village of your grandparents with a private guide and an authentic local experience."
-        supportingLine="Unforgettable journeys to your grandparents' village. Authentic food, real stories, and the warmth of Italy."
         ctaText="Start Your Journey"
         ctaHref="/contact"
       />
@@ -79,7 +67,7 @@ export default function HomePage() {
           <h2 className="text-3xl md:text-4xl font-heading font-bold text-center mb-12">
             How It Works
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             {howItWorksSteps.map((step, index) => {
               const Icon = step.icon;
               return (
@@ -89,8 +77,8 @@ export default function HomePage() {
                       <Icon className="text-primary-green" size={32} />
                     </div>
                   </div>
-                  <h3 className="text-xl font-heading font-semibold mb-3">{step.title}</h3>
-                  <p className="text-text-primary/80">{step.description}</p>
+                  <h3 className="text-xl font-heading font-semibold mb-2">{step.title}</h3>
+                  <p className="text-text-primary/80 text-sm">{step.description}</p>
                 </Card>
               );
             })}
@@ -113,14 +101,14 @@ export default function HomePage() {
             {testimonials.map((testimonial, index) => (
               <Card key={index} className="relative">
                 <Quote className="text-primary-green/20 absolute top-4 left-4" size={40} />
-                <p className="text-text-primary italic mb-4 mt-8 relative z-10">
+                <p className="text-text-primary italic mb-4 mt-8 relative z-10 text-sm md:text-base">
                   "{testimonial.quote}"
                 </p>
                 <div className="flex items-center">
                   <Users className="text-primary-green mr-2" size={20} />
                   <div>
-                    <p className="font-semibold">{testimonial.author}</p>
-                    <p className="text-sm text-text-primary/60">{testimonial.location}</p>
+                    <p className="font-semibold text-sm">{testimonial.author}</p>
+                    <p className="text-xs text-text-primary/60">{testimonial.location}</p>
                   </div>
                 </div>
               </Card>
@@ -135,8 +123,8 @@ export default function HomePage() {
           <h2 className="text-3xl md:text-4xl font-heading font-bold mb-6">
             Ready to Discover Your Roots?
           </h2>
-          <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
-            Get an instant quote and start planning your journey to your grandparents' village.
+          <p className="text-lg md:text-xl mb-8 text-white/90 max-w-2xl mx-auto">
+            Get an instant quote and start planning your journey.
           </p>
           <Button href="/contact" variant="secondary" className="text-lg px-8 py-4">
             Get Instant Quote

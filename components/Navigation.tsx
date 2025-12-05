@@ -24,14 +24,15 @@ export const Navigation: React.FC = () => {
       <div className="container-custom">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center">
+          <Link href="/" className="flex items-center h-16">
             <Image
               src="/Logo.png"
               alt="Nonna Travel Logo"
-              width={120}
+              width={150}
               height={60}
-              className="h-auto w-auto"
+              className="h-full w-auto object-contain"
               priority
+              style={{ maxHeight: '60px' }}
             />
           </Link>
 
