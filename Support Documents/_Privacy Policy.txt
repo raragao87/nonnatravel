@@ -1,0 +1,224 @@
+﻿Privacy Policy
+Effective Date: [Insert Date]
+This Privacy Policy describes how NonnaTravel LLC (“NonnaTravel,” “we,” “us,” or “our”) collects, uses, discloses, and safeguards personal information in connection with our website, services, travel bookings, and related interactions (collectively, the “Services”).
+We take your privacy seriously and are committed to handling your information responsibly and in compliance with applicable U.S. federal and state privacy laws, and, where applicable, the European Union General Data Protection Regulation (“GDPR”).
+By accessing or using the Services, you acknowledge that you have read and understood this Privacy Policy.
+________________
+
+
+1. Information We Collect
+We collect personal information in the following ways:
+1.1 Information You Provide Directly
+This includes information you voluntarily submit when requesting a quote, booking a service, filling out forms, contacting us, or communicating with our team.
+Such information may include:
+* Full name
+
+* Email address
+
+* Phone number
+
+* Surname or ancestral village (for travel personalization)
+
+* Number of travelers
+
+* Preferred travel dates and locations
+
+* Payment information (processed solely by third-party processors)
+
+* Any information you choose to send via email, WhatsApp, or other communication methods
+
+We do not require or solicit sensitive personal information (e.g., health, ethnicity, religion, biometric data). Any genealogical or family-history details you choose to provide are strictly optional.
+________________
+
+
+1.2 Information Collected Automatically
+When you use our website, we may automatically collect:
+   * IP address
+
+   * Device and browser information
+
+   * Geolocation (approximate)
+
+   * Clickstream data, pages viewed, and referring website
+
+   * Cookies, tags, beacons, and similar tracking technologies
+
+We use this information to ensure site functionality, analyze performance, and improve the user experience.
+________________
+
+
+1.3 Payment Information
+Payments are processed through secure third-party processors such as Stripe.
+We do not store or have direct access to your full credit card information.
+________________
+
+
+2. How We Use Personal Information
+We use personal information for the following purposes:
+2.1 Service Delivery
+      * Responding to quote requests
+
+      * Planning and operating your travel experience
+
+      * Communicating itinerary details
+
+      * Facilitating bookings with local guides and service providers
+
+      * Providing customer support
+
+2.2 Business Operations
+         * Website performance monitoring
+
+         * Fraud prevention and security enhancement
+
+         * Improving our Services
+
+         * Ensuring compliance with legal and contractual obligations
+
+2.3 Marketing (Optional)
+With your consent where required, we may:
+            * Send promotional content
+
+            * Display targeted advertisements
+
+            * Notify you of updates or offers
+
+You may opt out of marketing communications at any time.
+________________
+
+
+3. Legal Bases for Processing (EU Users)
+For individuals located in the European Union, we process personal information based on:
+               * Performance of a contract: To provide quotes, bookings, and travel services
+
+               * Consent: For optional marketing or non-essential cookies
+
+               * Legitimate interests: Security, improvement of Services, fraud prevention
+
+               * Legal obligation: Compliance with accounting, tax, and statutory retention requirements
+
+________________
+
+
+4. How We Share Personal Information
+We do not sell personal information.
+We may share personal information with:
+4.1 Service Providers
+Trusted third-party vendors assisting with:
+                  * Payment processing
+
+                  * IT and website hosting
+
+                  * Analytics
+
+                  * Customer communications
+
+                  * Local travel operations (e.g., guides, drivers, restaurants)
+
+Each service provider is contractually obligated to use personal information only for the purposes of performing services on our behalf.
+4.2 Legal and Regulatory Requirements
+We may disclose information when required by law, subpoena, court order, or governmental request.
+4.3 Business Transfers
+In the event of a merger, acquisition, restructuring, financing, or sale of NonnaTravel assets, personal information may be transferred to the acquiring entity subject to confidentiality obligations.
+________________
+
+
+5. International Data Transfers
+Because we operate in both the United States and Europe, personal information may be transferred across jurisdictions.
+For EU users, such transfers rely on:
+                     * Standard Contractual Clauses (SCCs),
+
+                     * contract necessity, or
+
+                     * other lawful transfer mechanisms under GDPR.
+
+________________
+
+
+6. Data Retention
+We retain personal information only as long as necessary for:
+                        * Service fulfillment,
+
+                        * Legal compliance,
+
+                        * Fraud prevention,
+
+                        * Accounting and tax obligations.
+
+Travel and booking records are generally retained for 7 years.
+Quote inquiries and general communications may be retained for up to 24 months unless deletion is requested sooner.
+________________
+
+
+7. Your Rights
+7.1 U.S. Privacy Rights
+Depending on your state of residence (e.g., California, Virginia, Colorado), you may have rights to:
+                           * Know what personal information we collect
+
+                           * Request deletion
+
+                           * Opt out of marketing communications
+
+                           * Access the categories of third parties with whom we share information
+
+                           * Not be discriminated against for exercising your rights
+
+Requests may be submitted to hello@nonnatravel.com.
+________________
+
+
+7.2 EU Rights Under GDPR
+If you are located in the European Union, you may:
+                              * Request access to your personal information
+
+                              * Request correction of inaccurate data
+
+                              * Request deletion (“right to be forgotten”)
+
+                              * Request restriction or object to processing
+
+                              * Request data portability
+
+                              * Withdraw consent at any time
+
+We will honor all valid GDPR requests in accordance with legal requirements.
+________________
+
+
+8. Cookies and Tracking Technologies
+We use cookies and similar tools to:
+                                 * Operate and secure our website
+
+                                 * Analyze performance and traffic
+
+                                 * Improve advertising relevance
+
+You may adjust your cookie preferences in your browser or via our cookie banner (EU users).
+________________
+
+
+9. Data Security
+We implement commercially reasonable administrative, technical, and physical safeguards to protect personal information.
+While we strive to ensure the security of your information, no method of transmission or storage is entirely secure, and we cannot guarantee absolute security.
+________________
+
+
+10. Children’s Privacy
+Our Services are not intended for individuals under the age of 16.
+We do not knowingly collect personal information from children.
+If we become aware that information has been collected improperly, we will delete it promptly.
+________________
+
+
+11. Changes to This Privacy Policy
+We may update this Privacy Policy periodically.
+The “Effective Date” above reflects the latest revision.
+Continued use of the Services after changes signifies acceptance of the updated Policy.
+________________
+
+
+12. Contact Information
+If you have questions about this Privacy Policy or wish to exercise privacy rights, please contact us:
+NonnaTravel LLC
+ Email: hello@nonnatravel.com
+ Phone (US): +1 (347) 993-5093
