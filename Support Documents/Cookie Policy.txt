@@ -1,0 +1,46 @@
+﻿Effective Date: [Insert Date]
+NonnaTravel uses cookies and similar tracking technologies to improve your experience on our website.
+________________
+
+
+1. What Are Cookies?
+Cookies are small files stored on your device that help our website function properly, analyze usage, and personalize content.
+________________
+
+
+2. Types of Cookies We Use
+Strictly Necessary Cookies
+Required for core website functionality (cannot be disabled).
+Performance & Analytics Cookies
+Help us understand how users interact with the site.
+Examples: Google Analytics, heatmaps.
+Functional Cookies
+Remember preferences such as language or location.
+Targeting/Advertising Cookies
+Used for retargeting and showing relevant ads (only with consent for EU users).
+________________
+
+
+3. Cookie Management
+You can manage or disable cookies using:
+* Our cookie banner (EU users), and
+
+* Your browser settings.
+
+________________
+
+
+4. Third-Party Cookies
+Some cookies are placed by third-party services (e.g., analytics, payment processors).
+These providers maintain their own privacy policies.
+________________
+
+
+Cookie Banner Text (for EU)
+We use cookies to enhance your browsing experience, analyze site traffic, and deliver personalized content. You can accept all cookies, reject non-essential cookies, or customize your choices.
+Buttons Required (GDPR):
+   * Accept all
+
+   * Reject non-essential
+
+   * Customize
